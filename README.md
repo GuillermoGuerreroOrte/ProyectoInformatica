@@ -53,9 +53,6 @@ En la segunda evaluación tuvimos 4 proyectos:
 4. [Caza Estelar:](https://drive.google.com/file/d/1CvzC7Jwt3uzqYo9aUT4BE0xOSklcTkVn/view?usp=drive_link)
 
 ![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/feb1be93-d11f-4f37-a55d-e8c451d07b02)
-https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/217a0b73-93a2-4e59-9c57-d17011cfa723
-
-
 
 5. [Presentación IA:](https://app.presentations.ai/docs/user/invite/lpOovDOETrvVX6P9FQtMPt9vY)
 
