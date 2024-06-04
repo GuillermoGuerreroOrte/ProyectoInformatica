@@ -20,11 +20,17 @@ Lo que más podria haber mejorado son los perifericos externos, como la pantalla
 
 3. [Shotcut:](https://drive.google.com/file/d/1FtQ9SglcfbNQ3CjzRFmKzoUuyXOZ_Hnm/view?usp=drive_link)
 
+![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/b199afe8-41c5-444b-9da2-394cda518253)
+
 
 4. [Video colegial:](https://drive.google.com/file/d/1Qm3i8iW18KrT3tPRfWGxbSERJw1waBXi/view)
 
+![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/2ad33fc1-5633-4af4-9cbc-054a5b75707e)
+
 
 5. [Comic IA:](https://docs.google.com/document/d/1IQ55j_24QeWmCjiO4PYnPRcOztggXbhhGiNqBVghfhQ/edit)
+
+![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/3158179d-876c-4baf-9919-d5fe17ec707a)
 
 
 # Segunda evaluación:
@@ -47,22 +53,32 @@ En la segunda evaluación tuvimos 4 proyectos:
 4. [Caza Estelar:](https://drive.google.com/file/d/1CvzC7Jwt3uzqYo9aUT4BE0xOSklcTkVn/view?usp=drive_link)
 
 ![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/feb1be93-d11f-4f37-a55d-e8c451d07b02)
+https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/217a0b73-93a2-4e59-9c57-d17011cfa723
+
 
 
 5. [Presentación IA:](https://app.presentations.ai/docs/user/invite/lpOovDOETrvVX6P9FQtMPt9vY)
 
+![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/50c9d714-7a2a-451d-b3d7-4a734ccc7fb9)
 
 
 # Tercera evaluación:
 Por ultimo en la tercera evaluación solo tuvimos tres proyectos:
 
-1. Programación:
+1. [Programación:](https://docs.google.com/document/d/1d8zjtRPfwO7QS2FmKe1Zfzz2dxe26BU__f7X6TpPPcg/edit)
 
 
-2. Videotutorial:
+
+2. [Videotutorial:](https://drive.google.com/file/d/1-TUH-giAJYneVgnQC1jbe0TbrCS-huf1/view?usp=drive_link)
+
+[![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/682ec6c4-4599-472e-ab4a-b48b3dcba8d0)
+](https://drive.google.com/file/d/1-TUH-giAJYneVgnQC1jbe0TbrCS-huf1/view?usp=sharing)
+
+3. [Lmms:](https://drive.google.com/file/d/1riZNt9mxIJwW8eY7WKLFSxLe-UxGxUo_/view?usp=drive_link)
+
+![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/4e63e5cc-0d54-46d2-829a-f4bcaa1c4dd1) 
+
+https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/9f686df8-e42e-4717-9b01-6aa99b37e9cf
 
 
-3. Lmms:
-
-   
    
