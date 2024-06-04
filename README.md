@@ -55,17 +55,19 @@ Las herramientas que tuvimos que utilizar son: clonar, esquivar/quemar, esponja/
 
 
 3. [Diseño de casa:](https://drive.google.com/file/d/1p0Bj5GV4CO7UgdvbX5mGV6vYZ-b2mudH/view?usp=drive_link)
-
+Para este proyecto teniamos que usar sketchup para modelar nuestra casa ideal en 3d, yo hice una casa moderna con varias plantas y jardin.
+Respecto a sketchup la verdad es que es una pagina que no me gusta demasiado ya que creo que no tiene demasiadas funciones y ademas se me congelaba la pagina con frecuencia.
+Creo que lo que más se puede mejorar es el interior porque tambien era lo más dificil de cambiar debido a que estaban las paredes en medio.  
 
 ![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/1d4dd6d7-1d6e-4225-9681-aa0816269348)
 
 4. [Caza Estelar:](https://drive.google.com/file/d/1CvzC7Jwt3uzqYo9aUT4BE0xOSklcTkVn/view?usp=drive_link)
-
+Para el caza estelar preferi utilizar blender que es un programa de modelaje 3d que aunque es más complejo de usar que sketchup tiene más opciones y como ya lo habia usado alguna vez no me costo mucho acostumbrarme a usarlo, y una vez que te acostumbras es mucho mejor que sketchup por lo menos en mi opinion. Lo que más se podria mejorar con diferencia es la parte principal de la nave tanto en forma como la textura. La forma estaba bien pero creo que podria haber quedado bastante mejor. Pero lo que peor me quedo con diferencia fue la textura del cuerpo ya que al tener varios colores, formas y sombras era muy dificl de hacer. 
 
 ![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/feb1be93-d11f-4f37-a55d-e8c451d07b02)
 
 5. [Presentación IA:](https://app.presentations.ai/docs/user/invite/lpOovDOETrvVX6P9FQtMPt9vY)
-
+En este proyecto teniamos que utilizar una inteligencia artificial para crear una presentación sobre un tema especifico y especializado. Por esto Pabo y yo escogimos los avances tecnologicos en la primera guerra mundial ya que es un tema relacionado con la tecnologia y es bastante concreto. Para crear la presentación probamos distintas paginas y escogimos la que dio el resultado que más nos gustaba que fue presentations.ai. La inteligencia artificial tenia varios fallos y cosas que habia que mejorar como por ejemplo que puso algunas de las diapositivas en ingles y otras en español. Pero esteticamente fue la que más nos gusto y a nivel de contenido estaba bastante bien. Se podria haber mejorado más el contenido pero creo que quedo bastante bien.
 
 ![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/50c9d714-7a2a-451d-b3d7-4a734ccc7fb9)
 
@@ -74,19 +76,20 @@ Las herramientas que tuvimos que utilizar son: clonar, esquivar/quemar, esponja/
 Por ultimo en la tercera evaluación solo tuvimos tres proyectos:
 
 1. [Programación:](https://docs.google.com/document/d/1d8zjtRPfwO7QS2FmKe1Zfzz2dxe26BU__f7X6TpPPcg/edit)
-
+Para el proyecto de programación en mit app inventor decidi crear una calculadora ya que es algo util y no demasiado complejo de programar. Al tener que hacerlo en mit app inventor tuve que usar el sistema de bloques. A mi no me gusta demasiado ese sistema porque me confunde más de lo que me ayuda y prefiero el codigo normal. Del resultado final creo que quedo bien y que solo se podria añadir más funciones pero eso complicaba bastante más el codigo. 
 
 ![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/eec54176-cf80-40a9-8590-7c8ad4d81977)
 
-
 2. [Videotutorial:](https://drive.google.com/file/d/1-TUH-giAJYneVgnQC1jbe0TbrCS-huf1/view?usp=drive_link)
-
+El videotutorial consistia en hacer un tutorial de cualquier cosa. Para esto yo elegi blender ya que me gusta bastante usarlo y me parecia bastante adecuado para hacer un tutorial.
+Como el tutorial tenia que ser de algo más concreto decidi hacerlo de como usar imagenes de referencia para crear un modelo 3D, y explicar tambien varias funciones utiles de blender.
+Creo que mi principal problema en el tutorial fue tanto el comentarlo como cuadrar el tiempo tanto de grabacion como del comentario para que cuadrasen bien y sin pasarme del tiempo limite.
 
 [![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/682ec6c4-4599-472e-ab4a-b48b3dcba8d0)
 ](https://drive.google.com/file/d/1-TUH-giAJYneVgnQC1jbe0TbrCS-huf1/view?usp=sharing)
 
 3. [Lmms:](https://drive.google.com/file/d/1riZNt9mxIJwW8eY7WKLFSxLe-UxGxUo_/view?usp=drive_link)
-
+Para el ultimmo proyecto teniamos que crear una cancion con lmms. Al principio fue bastante complicado aprender a usarlo ya que nunca habia usado un software de creación de musica, pero poco a poco fui apreniendo las funciones basicas y puede crear una canción que no quedaba del todo mal. Igualmente tampoco me quede contento del todo con el resultado pero creo que para ser la primera vez que hago algo asi no está mal. 
 
 ![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/4e63e5cc-0d54-46d2-829a-f4bcaa1c4dd1) 
 
