@@ -66,7 +66,7 @@ Para el caza estelar preferi utilizar blender que es un programa de modelaje 3d 
 
 ![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/feb1be93-d11f-4f37-a55d-e8c451d07b02)
 
-5. [Presentación IA:](https://app.presentations.ai/docs/user/invite/lpOovDOETrvVX6P9FQtMPt9vY)
+5. [Presentación IA:](https://app.presentations.ai/view/ZyB5EG)
 En este proyecto teniamos que utilizar una inteligencia artificial para crear una presentación sobre un tema especifico y especializado. Por esto Pabo y yo escogimos los avances tecnologicos en la primera guerra mundial ya que es un tema relacionado con la tecnologia y es bastante concreto. Para crear la presentación probamos distintas paginas y escogimos la que dio el resultado que más nos gustaba que fue presentations.ai. La inteligencia artificial tenia varios fallos y cosas que habia que mejorar como por ejemplo que puso algunas de las diapositivas en ingles y otras en español. Pero esteticamente fue la que más nos gusto y a nivel de contenido estaba bastante bien. Se podria haber mejorado más el contenido pero creo que quedo bastante bien.
 
 ![image](https://github.com/GuillermoGuerreroOrte/ProyectoInformatica/assets/171572058/50c9d714-7a2a-451d-b3d7-4a734ccc7fb9)
